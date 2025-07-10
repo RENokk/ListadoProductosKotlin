@@ -16,4 +16,4 @@ Este proyecto se conecta a una API externa y muestra un listado de productos (no
 
 ## Autor
 
-Trabajo práctico para la materia Mobile Testing (QA).
+API Mobile Testing (QA).
